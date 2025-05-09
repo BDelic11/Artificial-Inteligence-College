@@ -1,0 +1,28 @@
+Zadatak 1 – Transportni problem s različitim solverima
+
+• Instalirajte Python biblioteku PuLP:
+    pip install PuLP
+    ili
+    pip install PuLP --user
+
+• PuLP se koristi za rješavanje problema linearnog programiranja.
+  U ovom zadatku koristit ćemo ga za rješavanje transportnog problema.
+
+• Programski kod iz prethodnog zadatka prilagodite tako da koristite različite metode prilikom pozivanja funkcije prob.solve():
+    - prob.solve(PULP_CBC_CMD())
+    - prob.solve(GLPK_CMD())
+    - prob.solve(CPLEX_CMD())
+    - prob.solve(GUROBI_CMD())
+
+• Usporedite ukupne cijene (objective value) dobivene korištenjem svakog od navedenih solvera.
+
+
+Zadatak 3 – Linearno programiranje (slajd 68)
+
+• Riješite zadatak sa slajda 68 iz Predavanja 8 koristeći PuLP biblioteku u Pythonu.
+
+• Zadatak je također prikazan na sljedećem slajdu, zajedno s njegovim ručnim rješenjem.
+
+• Rješenja se neće u potpunosti podudarati – ručno rješenje predstavlja početno izvedivo rješenje,
+  dok rješenje dobiveno korištenjem PuLP predstavlja optimalno rješenje problema.
+

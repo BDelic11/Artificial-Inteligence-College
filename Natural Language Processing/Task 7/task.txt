@@ -1,0 +1,26 @@
+OBRADA PRIRODNOG JEZIKA  
+LABORATORIJSKA VJEŽBA 7  
+
+Zadatak 1.  
+Odaberite tri različite teme (npr. plants, animals i astronomy) te kreirajte četiri tekstualna dokumenta vezana za svaku od tih tema.  
+Na primjer, za temu *plants* možete kreirati dokumente:  
+- sunflower.txt  
+- poppy.txt  
+- daisy.txt  
+- daffodil.txt  
+
+Svaki od dokumenata treba sadržavati odgovarajući tekst vezan za temu.  
+Napomena: U svakom dokumentu trebala bi biti barem jedna stranica teksta.  
+
+---
+
+Zadatak 2.  
+Napišite program koji trenira algoritam **k-sredina** (k-means) na 9 tekstualnih dokumenata (po tri iz svake klase), te ga testira na preostala tri dokumenta (po jedan iz svake klase).  
+- Namjestite broj iteracija algoritma k-sredina da dobijete što bolje rezultate.  
+- Koristite **TF-IDF** mjeru prilikom numeričkog predstavljanja dokumenata, a ne jednojedinično kodiranje (one-hot encoding).
+
+---
+
+Zadatak 3.  
+Rješenja prethodnih zadataka (programski kod) stavite u Word dokument ili PDF dokument te uploadajte na e-Learning.
+
