@@ -16,8 +16,9 @@ Covers key NLP concepts and hands-on projects, such as text preprocessing, senti
 - A `task.txt` file with the problem description.
 - A corresponding Python file with the code solution.
 
-## 📁 Example Folder Structure
+## 📁 Folder Structure
 
+```
 Artificial-Intelligence/
 ├── Optimization-Methods/
 │   ├── Task-1/
@@ -35,6 +36,7 @@ Artificial-Intelligence/
 │   │   ├── task.txt
 │   │   └── solution.py
 │   └── ...
+```
 
 
 
