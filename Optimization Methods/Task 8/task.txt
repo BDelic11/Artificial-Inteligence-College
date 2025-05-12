@@ -1,0 +1,18 @@
+• Istrenirati Random Forest model koji
+predviđa cijenu stana na temelju značajki
+stana.
+• Ovaj zadatak sličan je onome iz vježbe 6 gdje smo
+pomoću Shapleyeve vrijednosti određivali
+važnost značajki.
+• Napraviti testni set podataka, te ispisati
+točnost (eng. accuracy) modela na tom setu.
+• Koristite Grid Search za određivanje
+optimalnih hiperparametara modela iz
+prethodnog zadatka, te usporedite točnost
+oba modela.
+• Podsjetnik:
+• parametri – varijable koje se uče tijekom
+treniranja algoritma,
+• hiperparametri – varijable koje se određuju prije
+treniranja algoritma (npr. broj epoha ili brzina
+učenja modela).
