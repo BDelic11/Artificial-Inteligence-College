@@ -1,0 +1,17 @@
+OBRADA PRIRODNOG JEZIKA
+
+LABORATORIJSKA VJEŽBA 9
+
+Zadatak 1. Odaberite tri različite teme (npr. plants, animals i astronomy) te kreirajte četiri
+tekstualna dokumenta na engleskom jeziku vezana za svaku od tih tema. Na primjer, za temu
+plants možete kreirati dokumente sunflower.txt, poppy.txt, daisy.txt i daffodil.txt. Svaki od
+dokumenata treba sadržavati odgovarajući tekst vezan za temu.
+Napomena: u svakom bi dokumentu trebala biti barem jedna stranica teksta.
+
+Zadatak 2. Napišite program koji trenira algoritam k-sredina na 9 tekstualnih dokumenata (po tri iz
+svake klase), te ga testira na preostala tri dokumenta (po jedan iz svake klase). Namjestite broj
+iteracija algoritma k-sredina da dobijete što bolje rezultate. Za numeričko predstavljanje
+tekstualnog dokumenta odaberite metodu koju želite (jednojedinično kodiranje, TF-IDF…),
+no prilikom izgradnje rječnika jedinstvenih riječi koristite lematizaciju ili korjenovanje.
+Lematizaciju ili korjenovanje koristite i prilikom testiranja algoritma, te rezultate usporedite
+sa rezultatima dobivenima na prethodnim laboratorijskim vježbama.
